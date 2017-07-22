@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book List App</string>
+    <string name="search">Search</string>
+    <string name="button_text">Search</string>
+    <string name="empty_view">Type in your desired book</string>
+</resources>
